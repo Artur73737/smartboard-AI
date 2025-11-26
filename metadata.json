@@ -1,0 +1,5 @@
+{
+  "name": "SmartBoard AI",
+  "description": "Una lavagna interattiva intelligente che risolve matematica e disegna grafici usando Gemini AI.",
+  "requestFramePermissions": []
+}
